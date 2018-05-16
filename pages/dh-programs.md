@@ -5,9 +5,6 @@ The list is meant to be global and comprehensive of all types of degrees. The li
 List in progress. Please submit a pull request or add an issue with your suggestion. 
 
 ## PhD Programs
-### Asia
-- PHD in Digital Humanities, IIT Indore, India \[In design stage\]
-
 ### Europe
 - MPhil/PhD in Digital Humanities Research, King's College London, UK
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
@@ -17,13 +14,13 @@ List in progress. Please submit a pull request or add an issue with your suggest
 
 ### Asia
 - MD in Digital Humanities, Srishti Institute of Art, Design and Technology, India
-- MS in Digital Humanities, IIT Indore, India
 
 ### Australasia
 - [Major and Minor in Digital Humanities and Public Culture](http://cdhr.cass.anu.edu.au/students/future), Australian National University, Australia
 
 ### Europe
 - MA in Digital Humanities Research, King's College London, UK
+- [MA Letras Digitales](https://www.ucm.es/master-letrasdigitales), Complutense University of Madrid, Spain
 - [M.Sc. Computing in the Humanities](https://www.uni-bamberg.de/ma-cith/), Otto-Friedrich-Universität Bamberg, Germany 
 - [MA Digital Humanities](https://www.uni-wuerzburg.de/studium/angebot/faecher/digihum), Universität Würzburg, Germany 
 - [MA Digital Humanities](http://www.uni-stuttgart.de/dh/studium/masterstudiengang/), Universität Stuttgart, Germany
@@ -81,7 +78,6 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Digital Humanities and Culture Graduate Certificate](https://english.wsu.edu/graduate-certificates/), Washington State University, USA
 - [Graduate Certificate in Data Science in the Humanities](https://iph.wustl.edu/DASHGradCertificateRequirements), Washington University in St. Louis, USA
 - [Digital Humanities Graduate Certificate](https://dsu.edu/graduate-students/digital-humanities-graduate-certificate). Dakota State University, USA
-- [Digital Studies in Arts and Humanities, Graduate Certificate](http://dsah.umd.edu/), University of Maryland, USA 
 
 ## Undergraduate Major
 
